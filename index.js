@@ -8,5 +8,4 @@ function sayhappyHolidaysTo(name) {
 }
 
 
-function happyHolidayTo
 
